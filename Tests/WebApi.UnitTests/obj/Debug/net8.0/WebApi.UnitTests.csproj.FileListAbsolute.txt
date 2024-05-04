@@ -121,3 +121,4 @@ C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\refint\
 C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.UnitTests.pdb
 C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.UnitTests.genruntimeconfig.cache
 C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\ref\WebApi.UnitTests.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.UnitTests.sourcelink.json

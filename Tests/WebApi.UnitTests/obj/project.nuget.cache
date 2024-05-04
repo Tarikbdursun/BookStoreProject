@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vu6jpUSC6CXvuwCc5sYxKvd+3fL2hRjhXlcRxKMOWPOycZKMekhFodlj4p4HJI6c3mMmMF90UTwY95LFi1eKVA==",
+  "dgSpecHash": "FofQkwusaVjEbV2L1Zj9Lm6kGaly3II8SAxt4gmoiwGSnmM2jjAfdCXdcu9PKBgHw32ngWNXxxV3MUAubFj/ww==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tarık Buğra\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -11,10 +11,10 @@
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
-    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
-    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
-    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
-    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.3\\microsoft.entityframeworkcore.inmemory.8.0.3.nupkg.sha512",
+    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
+    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
+    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
+    "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.4\\microsoft.entityframeworkcore.inmemory.8.0.4.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
