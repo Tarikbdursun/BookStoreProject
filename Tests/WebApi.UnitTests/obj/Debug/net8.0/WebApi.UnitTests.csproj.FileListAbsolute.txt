@@ -122,3 +122,11 @@ C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.
 C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.UnitTests.genruntimeconfig.cache
 C:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\ref\WebApi.UnitTests.dll
 c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\obj\Debug\net8.0\WebApi.UnitTests.sourcelink.json
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Tarık Buğra\BookStore\Tests\WebApi.UnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
